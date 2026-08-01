@@ -8,5 +8,6 @@
   "maxInterstitialsPerDay": 10,
   "noFillBackoffSec": 30,
   "minSupportedVersion": "0.0.0",
-  "vipRewardMinutes": 15
+  "vipRewardMinutes": 15,
+  "vipTrialMinutes": 10
 }
