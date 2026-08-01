@@ -1,5 +1,5 @@
 {
-  "configVersion": 1,
+  "configVersion": 2,
   "adsEnabled": true,
   "newUserGraceMinutes": 10,
   "sessionGraceSeconds": 60,
@@ -7,5 +7,6 @@
   "maxInterstitialsPerSession": 4,
   "maxInterstitialsPerDay": 10,
   "noFillBackoffSec": 30,
-  "minSupportedVersion": "0.0.0"
+  "minSupportedVersion": "0.0.0",
+  "vipRewardMinutes": 15
 }
