@@ -2,6 +2,6 @@
   "configVersion": 1,
   "updateUrl": "https://play.google.com/store/apps/details?id=com.kuzheren.Collapsion",
   "versions": [
-    { "version": "beta 2026.08.01", "forceUpdate": false }
+    { "version": "beta 2026.08.01", "code": 67, "forceUpdate": false }
   ]
 }
