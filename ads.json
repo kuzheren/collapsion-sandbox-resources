@@ -1,8 +1,8 @@
 {
   "configVersion": 2,
   "adsEnabled": true,
-  "newUserGraceMinutes": 10,
-  "sessionGraceSeconds": 60,
+  "newUserGraceMinutes": 15,
+  "sessionGraceSeconds": 180,
   "interstitialCooldownSec": 120,
   "maxInterstitialsPerSession": 15,
   "maxInterstitialsPerDay": 30,
