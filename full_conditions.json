@@ -1,1 +1,10 @@
-
+{
+  "configVersion": 1,
+  "enabled": true,
+  "detailsUrl": "https://kuzheren.xyz/collapsion/promo",
+  "tiers": [
+    { "reward": "week",    "minViews": 50,   "maxViews": 1000 },
+    { "reward": "month",   "minViews": 1000, "maxViews": 5000 },
+    { "reward": "forever", "minViews": 5000, "maxViews": 0 }
+  ]
+}
