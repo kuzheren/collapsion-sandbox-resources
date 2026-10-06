@@ -13,6 +13,11 @@
     { "version": "beta 2026.08.19", "code": 76, "forceUpdate": true },
     { "version": "beta 2026.08.29", "code": 77, "forceUpdate": true },
     { "version": "beta 2026.09.04", "code": 78, "forceUpdate": true },
-    { "version": "beta 2026.09.07", "code": 79, "forceUpdate": false }
+    { "version": "beta 2026.09.07", "code": 79, "forceUpdate": true },
+    { "version": "beta 2026.09.26", "code": 80, "forceUpdate": true },
+    { "version": "beta 2026.10.01", "code": 81, "forceUpdate": true },
+    { "version": "beta 2026.10.03", "code": 82, "forceUpdate": true },
+    { "version": "beta 2026.10.05", "code": 83, "forceUpdate": true },
+    { "version": "beta 2026.10.06", "code": 84, "forceUpdate": false }
   ]
 }
