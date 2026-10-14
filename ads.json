@@ -1,12 +1,13 @@
 {
-  "configVersion": 2,
+  "configVersion": 3,
   "adsEnabled": true,
   "newUserGraceMinutes": 15,
-  "sessionGraceSeconds": 180,
-  "interstitialCooldownSec": 120,
-  "maxInterstitialsPerSession": 15,
+  "sessionGraceSeconds": 90,
+  "interstitialCooldownSec": 90,
+  "maxInterstitialsPerSession": 8,
   "maxInterstitialsPerDay": 30,
-  "noFillBackoffSec": 30,
+  "noFillBackoffSec": 15,
+  "mapEnterChance": 0.5,
   "minSupportedVersion": "0.0.0",
   "vipRewardMinutes": 15,
   "vipTrialMinutes": 10
