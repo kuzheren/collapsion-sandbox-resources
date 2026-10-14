@@ -7,7 +7,8 @@
   "maxInterstitialsPerSession": 8,
   "maxInterstitialsPerDay": 30,
   "noFillBackoffSec": 15,
-  "mapEnterChance": 0.5,
+  "mapEnterEvery": 2,
+  "mapRestartEvery": 2,
   "minSupportedVersion": "0.0.0",
   "vipRewardMinutes": 15,
   "vipTrialMinutes": 10
