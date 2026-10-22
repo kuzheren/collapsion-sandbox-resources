@@ -11,5 +11,6 @@
   "mapRestartEvery": 1,
   "minSupportedVersion": "0.0.0",
   "vipRewardMinutes": 15,
+  "vipRewardRealHours": 24,
   "vipTrialMinutes": 10
 }
