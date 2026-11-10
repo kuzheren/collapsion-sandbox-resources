@@ -1,0 +1,7 @@
+{
+  "version": 1,
+  "relays": [
+    { "id": "EU", "name": "Europe", "host": "91.108.248.147", "port": 443,
+      "flag": "https://kuzheren.xyz/static/flags/eu.png" }
+  ]
+}
