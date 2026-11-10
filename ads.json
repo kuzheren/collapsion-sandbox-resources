@@ -12,5 +12,8 @@
   "minSupportedVersion": "0.0.0",
   "vipRewardMinutes": 15,
   "vipRewardRealHours": 24,
+  "mpDeathCooldownSec": 120,
+  "mpDeathFreeDeaths": 2,
+  "mpWorldResetEvery": 1,
   "vipTrialMinutes": 10
 }
